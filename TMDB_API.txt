@@ -1,0 +1,8 @@
+API Key (v3 auth)
+1fa2ea6066ebc1d8fb736d2a7949540d
+
+Contoh Permintaan API
+https://api.themoviedb.org/3/movie/550?api_key=1fa2ea6066ebc1d8fb736d2a7949540d
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxZmEyZWE2MDY2ZWJjMWQ4ZmI3MzZkMmE3OTQ5NTQwZCIsInN1YiI6IjYzOGUwMWIxN2Q1ZGI1MGZiZjAxODU5NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.DkJTBVdA6TXBbpWxVzdBkKdXOXYNz-rnfB-jW_ghZHs
